@@ -1,0 +1,5 @@
+{
+  "Incidence Rate": "incidence_xgboost.pkl",
+  "Infection Prevalence": "prevalence_svr.pkl",
+  "Mortality Rate": "mortality_xgboost.pkl"
+}
